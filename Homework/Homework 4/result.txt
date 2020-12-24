@@ -1,0 +1,135 @@
+Current keys: Direction=1, Shiftcount=0
+Source string = Frank Butt
+Target string = fRANK bUTT
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=4
+Source string = Frank Butt
+Target string = bNWJG xQPP
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=5
+Source string = Frank Butt
+Target string = aMVIF wPOO
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=6
+Source string = Frank Butt
+Target string = zLUHE vONN
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=7
+Source string = Frank Butt
+Target string = yKTGD uNMM
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=8
+Source string = Frank Butt
+Target string = xJSFC tMLL
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=9
+Source string = Frank Butt
+Target string = wIREB sLKK
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=2
+Source string = Frank Butt
+Target string = dPYLI zSRR
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=1
+Source string = Frank Butt
+Target string = eQZMJ aTSS
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=3
+Source string = Frank Butt
+Target string = cOXKH yRQQ
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=10
+Source string = Frank Butt
+Target string = vHQDA rKJJ
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=11
+Source string = Frank Butt
+Target string = uGPCZ qJII
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=12
+Source string = Frank Butt
+Target string = tFOBY pIHH
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=13
+Source string = Frank Butt
+Target string = sENAX oHGG
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=14
+Source string = Frank Butt
+Target string = rDMZW nGFF
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=15
+Source string = Frank Butt
+Target string = qCLYV mFEE
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=16
+Source string = Frank Butt
+Target string = pBKXU lEDD
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=17
+Source string = Frank Butt
+Target string = oAJWT kDCC
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=18
+Source string = Frank Butt
+Target string = nZIVS jCBB
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=19
+Source string = Frank Butt
+Target string = mYHUR iBAA
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=20
+Source string = Frank Butt
+Target string = lXGTQ hAZZ
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=21
+Source string = Frank Butt
+Target string = kWFSP gZYY
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=22
+Source string = Frank Butt
+Target string = jVERO fYXX
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=23
+Source string = Frank Butt
+Target string = iUDQN eXWW
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=24
+Source string = Frank Butt
+Target string = hTCPM dWVV
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=25
+Source string = Frank Butt
+Target string = gSBOL cVUU
+Number of characters converted = 9
+
+Current keys: Direction=1, Shiftcount=26
+Source string = Frank Butt
+Target string = fRANK bUTT
+Number of characters converted = 9
+

@@ -1,0 +1,4 @@
+Windows:
+gcc -c encrypt.cpp
+gcc -L. -o p4 p4.cpp -lencrypt
+gcc -shared -o libencrypt.dll encrypt.o

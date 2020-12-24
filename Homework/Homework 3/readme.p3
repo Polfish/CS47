@@ -1,0 +1,20 @@
+Name: Paul Chon (014018771)
+OS: Windows 64-bit
+Code is in 64-bit
+
+Compiler: Cygwin 64-bit gcc 10.2.0 (If you are going to download this compiler, then you should know 
+that Cygwin by default does NOT come with gcc, you have to find the gcc package when installing 
+Cygwin and install the one you want, which in this case is gcc 10.2.0)
+
+Output for "gcc --version":
+gcc (GCC) 10.2.0
+Copyright (C) 2020 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Note:
+Search_by_name is implemented with iterative binary search not recursive. In the main function on 
+line 185, I added a period after "%s" to match the printf on line 180 that has a period. Also, the 
+search_by_name function returns index, which used to be 0 because otherwise it doesn't work. Also, 
+I noticed that the student id never goes above 9223372036854775807 even if the user input is above 
+9223372036854775807, it just goes down to 9223372036854775807.
